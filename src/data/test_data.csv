@@ -1,0 +1,6 @@
+target_point;heading;velocity;acceleration;stay_point
+yes;0.2;0.3;-0.2;no
+no;1.2;2.1;0.76;no
+no;3.2;5.4;1;yes
+yes;9;4;2;yes
+yes;3;5;6;no
